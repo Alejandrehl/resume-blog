@@ -68,13 +68,13 @@
                 </a>
             </li>
             <li>
-                <a href="blog.html">
+                <a href="{{ route('blog') }}">
                     <span class="lnr lnr-leaf"></span>
                     <span class="nav-text">blog</span>
                 </a>
             </li>
             <li>
-                <a href="contact.html">
+                <a href="{{ route('contact') }}">
                     <span class="lnr lnr-phone-handset"></span>
                     <span class="nav-text">Contact</span>
                 </a>
