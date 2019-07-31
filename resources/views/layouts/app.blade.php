@@ -56,7 +56,7 @@
                 </a>
             </li>
             <li>
-                <a href="services.html">
+                <a href="{{ route('services') }}">
                     <span class="lnr lnr-cog"></span>
                     <span class="nav-text">services</span>
                 </a>
