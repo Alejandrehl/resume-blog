@@ -34,7 +34,7 @@
         </div>
         <ul class="main-menu">
             <li>
-                <a href="index.html">
+                <a href="{{ route('index') }}">
                     <span class="lnr lnr-home"></span>
                     <span class="nav-text">home</span>
                 </a>
@@ -46,7 +46,7 @@
                 </a>
             </li>
             <li>
-                <a href="resume.html">
+                <a href="{{ route('resume') }}">
                     <span class="lnr lnr-license"></span>
                     <span class="nav-text">resume</span>
                 </a>
