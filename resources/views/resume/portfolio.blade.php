@@ -32,7 +32,7 @@
           <img src="assets/img/portfolio/1.jpg" alt="">
           <div class="portfolio-overlay">
            <div class="portfolio-btn-action">
-             <a href="portfolio-details.html">
+             <a href="{{ route('portfolio/details') }}">
                <span class="lnr lnr-link"></span>
              </a>
              <a href="assets/img/portfolio/1.jpg" class="popup-img">
@@ -52,7 +52,7 @@
           <img src="assets/img/portfolio/2.jpg" alt="">
           <div class="portfolio-overlay">
            <div class="portfolio-btn-action">
-             <a href="portfolio-details.html">
+             <a href="{{ route('portfolio/details') }}">
                <span class="lnr lnr-link"></span>
              </a>
              <a href="assets/img/portfolio/2.jpg" class="popup-img">
@@ -72,7 +72,7 @@
           <img src="assets/img/portfolio/3.jpg" alt="">
           <div class="portfolio-overlay">
            <div class="portfolio-btn-action">
-             <a href="portfolio-details.html">
+             <a href="{{ route('portfolio/details') }}">
                <span class="lnr lnr-link"></span>
              </a>
              <a href="assets/img/portfolio/3.jpg" class="popup-img">
@@ -92,7 +92,7 @@
           <img src="assets/img/portfolio/4.jpg" alt="">
           <div class="portfolio-overlay">
            <div class="portfolio-btn-action">
-             <a href="portfolio-details.html">
+             <a href="{{ route('portfolio/details') }}">
                <span class="lnr lnr-link"></span>
              </a>
              <a href="assets/img/portfolio/4.jpg" class="popup-img">
@@ -112,7 +112,7 @@
           <img src="assets/img/portfolio/5.jpg" alt="">
           <div class="portfolio-overlay">
            <div class="portfolio-btn-action">
-             <a href="portfolio-details.html">
+             <a href="{{ route('portfolio/details') }}">
                <span class="lnr lnr-link"></span>
              </a>
              <a href="assets/img/portfolio/5.jpg" class="popup-img">
@@ -132,7 +132,7 @@
           <img src="assets/img/portfolio/6.jpg" alt="">
           <div class="portfolio-overlay">
            <div class="portfolio-btn-action">
-             <a href="portfolio-details.html">
+             <a href="{{ route('portfolio/details') }}">
                <span class="lnr lnr-link"></span>
              </a>
              <a href="assets/img/portfolio/6.jpg" class="popup-img">
@@ -152,7 +152,7 @@
           <img src="assets/img/portfolio/7.jpg" alt="">
           <div class="portfolio-overlay">
            <div class="portfolio-btn-action">
-             <a href="portfolio-details.html">
+             <a href="{{ route('portfolio/details') }}">
                <span class="lnr lnr-link"></span>
              </a>
              <a href="assets/img/portfolio/7.jpg" class="popup-img">
@@ -172,7 +172,7 @@
           <img src="assets/img/portfolio/2.jpg" alt="">
           <div class="portfolio-overlay">
            <div class="portfolio-btn-action">
-             <a href="portfolio-details.html">
+             <a href="{{ route('portfolio/details') }}">
                <span class="lnr lnr-link"></span>
              </a>
              <a href="assets/img/portfolio/2.jpg" class="popup-img">
@@ -192,7 +192,7 @@
           <img src="assets/img/portfolio/3.jpg" alt="">
           <div class="portfolio-overlay">
            <div class="portfolio-btn-action">
-             <a href="portfolio-details.html">
+             <a href="{{ route('portfolio/details') }}">
                <span class="lnr lnr-link"></span>
              </a>
              <a href="assets/img/portfolio/3.jpg" class="popup-img">

@@ -23,4 +23,9 @@ class ResumeController extends Controller
     {
         return view('resume.portfolio');
     }
+
+    public function portfolio_details()
+    {
+        return view('resume.portfolio_details');
+    }
 }
