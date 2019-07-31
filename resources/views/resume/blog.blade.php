@@ -29,7 +29,7 @@
             <p>
               Nam liber tempor cum soluta nobis is eleifend option congue nihil imper per tem por legere me doming vulputate.
             </p>
-            <a href="blog-details.html" class="btn btn-theme mt-2">Read more</a>
+            <a href="{{ route('blog/details') }}" class="btn btn-theme mt-2">Read more</a>
           </div>
         </article>
       </div> <!-- END col-md-4 -->
@@ -49,7 +49,7 @@
             <p>
               Nam liber tempor cum soluta nobis is eleifend option congue nihil imper per
             </p>
-            <a href="blog-details.html" class="btn btn-theme mt-2">Read more</a>
+            <a href="{{ route('blog/details') }}" class="btn btn-theme mt-2">Read more</a>
           </div>
         </article>
       </div> <!-- END col-md-4 -->
@@ -69,7 +69,7 @@
             <p>
               Nam liber tempor cum soluta nobis is eleifend option congue nihil imper per tem por legere me doming vulputate.
             </p>
-            <a href="blog-details.html" class="btn btn-theme mt-2">Read more</a>
+            <a href="{{ route('blog/details') }}" class="btn btn-theme mt-2">Read more</a>
           </div>
         </article>
       </div> <!-- END col-md-4 -->
@@ -93,7 +93,7 @@
             <p>
               Nam liber tempor cum soluta nobis is eleifend option congue nihil imper per tem por legere me doming vulputate.
             </p>
-            <a href="blog-details.html" class="btn btn-theme mt-2">Read more</a>
+            <a href="{{ route('blog/details') }}" class="btn btn-theme mt-2">Read more</a>
           </div>
         </article>
       </div> <!-- END col-md-4 -->
@@ -113,7 +113,7 @@
             <p>
               Nam liber tempor cum soluta nobis is eleifend option congue nihil imper per tem por legere me doming vulputate.
             </p>
-            <a href="blog-details.html" class="btn btn-theme mt-2">Read more</a>
+            <a href="{{ route('blog/details') }}" class="btn btn-theme mt-2">Read more</a>
           </div>
         </article>
       </div> <!-- END col-md-4 -->
@@ -133,7 +133,7 @@
             <p>
               Nam liber tempor cum soluta nobis is eleifend option congue nihil imper per tem por legere me doming vulputate.
             </p>
-            <a href="blog-details.html" class="btn btn-theme mt-2">Read more</a>
+            <a href="{{ route('blog/details') }}" class="btn btn-theme mt-2">Read more</a>
           </div>
         </article>
       </div> <!-- END col-md-4 -->
@@ -157,7 +157,7 @@
             <p>
               Nam liber tempor cum soluta nobis is eleifend option congue nihil imper per tem por legere me doming vulputate.
             </p>
-            <a href="blog-details.html" class="btn btn-theme mt-2">Read more</a>
+            <a href="{{ route('blog/details') }}" class="btn btn-theme mt-2">Read more</a>
           </div>
         </article>
       </div> <!-- END col-md-4 -->
@@ -177,7 +177,7 @@
             <p>
               Nam liber tempor cum soluta nobis is eleifend option congue nihil imper per
             </p>
-            <a href="blog-details.html" class="btn btn-theme mt-2">Read more</a>
+            <a href="{{ route('blog/details') }}" class="btn btn-theme mt-2">Read more</a>
           </div>
         </article>
       </div> <!-- END col-md-4 -->
@@ -197,7 +197,7 @@
             <p>
               Nam liber tempor cum soluta nobis is eleifend option congue nihil imper per tem por legere me doming vulputate.
             </p>
-            <a href="blog-details.html" class="btn btn-theme mt-2">Read more</a>
+            <a href="{{ route('blog/details') }}" class="btn btn-theme mt-2">Read more</a>
           </div>
         </article>
       </div> <!-- END col-md-4 -->
