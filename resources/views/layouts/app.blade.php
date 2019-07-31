@@ -40,7 +40,11 @@
                 </a>
             </li>
             <li>
-                <a class="scrolling" href="#about">
+                @if (\Route::current()->getName() == "index")
+                    <a class="scrolling" href="#about">
+                @else
+                    <a class="scrolling" href="{{ route('index') }}#about">
+                @endif
                     <span class="lnr lnr-user"></span>
                     <span class="nav-text">About</span>
                 </a>
