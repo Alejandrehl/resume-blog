@@ -1,6 +1,4 @@
-# RESUME BLOG PROJECT
-
-## COMMANDS
+# Commands
 
 1. composer install
 2. docker-compose up -d
