@@ -24,6 +24,9 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
+    <div id="page-loader">
+        <div class="loader-icon fa fa-spin colored-border"></div>
+    </div>
     <nav id="nav">
         <div class="sm-nav-toggler">
             <span class="lnr lnr-menu"></span>
