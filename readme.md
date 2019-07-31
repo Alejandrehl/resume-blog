@@ -1,10 +1,10 @@
-\*\*\* RESUME BLOG PROJECT
+# RESUME BLOG PROJECT
 
-\*\* COMMANDS
+## COMMANDS
 
-2. composer install
-3. docker-compose up -d
-4. docker ps
-5. docker-compose down && docker-compose up
-6. docker exec -it core bash
-7. docker exec -it db_mysql bash
+1. composer install
+2. docker-compose up -d
+3. docker ps
+4. docker-compose down && docker-compose up
+5. docker exec -it core bash
+6. docker exec -it db_mysql bash
