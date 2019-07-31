@@ -18,4 +18,9 @@ class ResumeController extends Controller
     {
         return view('resume.services');
     }
+
+    public function portfolio()
+    {
+        return view('resume.portfolio');
+    }
 }

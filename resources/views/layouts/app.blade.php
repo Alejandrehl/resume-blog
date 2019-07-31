@@ -62,7 +62,7 @@
                 </a>
             </li>
             <li>
-                <a href="portfolio.html">
+                <a href="{{ route('portfolio') }}">
                     <span class="lnr lnr-briefcase"></span>
                     <span class="nav-text">portfolio</span>
                 </a>
